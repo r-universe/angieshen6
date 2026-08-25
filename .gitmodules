@@ -5,3 +5,6 @@
 [submodule "BayesPPD"]
 	path = BayesPPD
 	url = https://github.com/cran/BayesPPD
+[submodule "BayesPPDSurv"]
+	path = BayesPPDSurv
+	url = https://github.com/cran/BayesPPDSurv
